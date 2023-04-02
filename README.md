@@ -23,6 +23,7 @@
 ## Educatuion:
 
 Currently pursuing a BS Degree in Application Software Development with a minor in Game Programming.(expected to graduate summer 2023.)
+
 AS in Computer Science from Onodoga Community College.(2020)
 
 ## About Me:
