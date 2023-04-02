@@ -20,17 +20,19 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="800" height="300"/>
 </div>
 
-## Educatuion:
+## 📖 Educatuion:
 
-Currently pursuing a BS Degree in Application Software Development with a minor in Game Programming.(expected to graduate summer 2023.)
+Currently pursuing a BS Degree in Application Software Development with a minor in Game Programming. (expected graduation summer 2023.)
 
-AS in Computer Science from Onodoga Community College.(2020)
+AS in Computer Science from Onodoga Community College. (2020)
 
-## About Me:
+## 💻 About Me:
+
+🌌 My Dream is persue my passion by working in the Video Game Industry on big games that I love. 
 
 Game Programming is my life. I also love attending Global Game Jam Events and playing video games. I have been playing Blizzard video games like World of Warcraft and Diablo since I was old enough to use a computer, and have been programming since highschool. Dungeons and Dragons is also a huge part of my life.
 
-### How to Contact Me:
+### ✉️How to Contact Me:
 
 Email: 18kbeach@gmail.com -or- beach988@morrisville.edu 
 
