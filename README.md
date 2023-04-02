@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://gifer.com/en/QWc9" width="100"/>
+  <img src="https://media.giphy.com/media/l0EoBlDn63scoVSXC/giphy.gif" width="100"/>
 </div>
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/chino-beach-186071269/">
