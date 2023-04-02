@@ -2,14 +2,17 @@
   <img src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif" width="100"/>
 </div>
 
-<div id="badges", align="center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chino-beach-186071269/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://linktr.ee/chinobeach">
+    <img src="https://img.shields.io/badge/LinkTree-green?logo=Linktree&logoColor=white&style=for-the-badge" alt="LinkTree Badge"/>
   </a>
 </div>
 
 <h1>
-  Welcome to my Page
+  Welcome To My Page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -17,12 +20,21 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="800" height="300"/>
 </div>
 
-Educatuion:
-currently pursuing a BS Degree in Application Software Development with a minor in Game Programming.(expected to graduate summer 2023.)
+## Educatuion:
+
+Currently pursuing a BS Degree in Application Software Development with a minor in Game Programming.(expected to graduate summer 2023.)
 AS in Computer Science from Onodoga Community College.(2020)
 
-About Me:
+## About Me:
+
 Game Programming is my life. I also love attending Global Game Jam Events and playing video games. I have been playing Blizzard video games like World of Warcraft and Diablo since I was old enough to use a computer, and have been programming since highschool. Dungeons and Dragons is also a huge part of my life.
+
+### How to Contact Me:
+
+Email: 18kbeach@gmail.com -or- beach988@morrisville.edu 
+
+LinkedIn: https://www.linkedin.com/in/chino-beach-186071269/ 
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
