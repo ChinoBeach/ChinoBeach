@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/aEwLTJvYxwo1L09oyP" width="100"/>
+  <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA" width="100"/>
 </div>
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/chino-beach-186071269/">
