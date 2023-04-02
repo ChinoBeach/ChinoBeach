@@ -9,7 +9,7 @@
 </div>
 
 <h1>
-  hey there
+  Welcome to my Page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -22,7 +22,7 @@ currently pursuing a BS Degree in Application Software Development with a minor 
 AS in Computer Science from Onodoga Community College.(2020)
 
 About Me:
-Game Programming is my life. I also love attending Global Game Jam Events and playing video games. I have been playing Blizzard video games like World of Warcraft and Diablo since I was old enough to use a computer, and have been programming since highschool.
+Game Programming is my life. I also love attending Global Game Jam Events and playing video games. I have been playing Blizzard video games like World of Warcraft and Diablo since I was old enough to use a computer, and have been programming since highschool. Dungeons and Dragons is also a huge part of my life.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
