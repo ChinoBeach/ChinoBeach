@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe" width="100"/>
-</div>
+
+  <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/QWc9" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/chino-beach-186071269/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
