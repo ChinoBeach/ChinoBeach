@@ -17,7 +17,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="800" height="300"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000" height="225"/>
 </div>
 
 ## 📖 Educatuion:
