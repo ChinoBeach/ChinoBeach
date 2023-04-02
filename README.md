@@ -13,7 +13,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="600" height="200"/>
 </div>
 
 Educatuion:
