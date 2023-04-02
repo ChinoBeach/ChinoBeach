@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/video-games-gif-artist-pixel-art-KE5Wi6aSESsjVpO6vg" width="100"/>
+  <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" width="100"/>
 </div>
 
 <div id="badges", align="center">
