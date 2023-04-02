@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif](https://giphy.com/gifs/nuevofoundation-coding-stem-anyonecancode-aEwLTJvYxwo1L09oyP)" width="100"/>
+  <img src="https://giphy.com/gifs/nuevofoundation-coding-stem-anyonecancode-aEwLTJvYxwo1L09oyP" width="100"/>
 </div>
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/chino-beach-186071269/">
@@ -13,7 +13,7 @@
 </h1>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="400"/>
 </div>
 
 Educatuion:
