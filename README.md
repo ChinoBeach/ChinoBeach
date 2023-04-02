@@ -1,5 +1,6 @@
-
-  <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/QWc9" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/video-games-gif-artist-pixel-art-KE5Wi6aSESsjVpO6vg" width="100"/>
+</div>
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/chino-beach-186071269/">
