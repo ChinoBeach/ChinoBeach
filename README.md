@@ -30,7 +30,7 @@
 
 🌌 My Dream is persue my passion by working in the Video Game Industry on big games that I love. 
 
-Game Programming is my life. I also love attending Global Game Jam Events and playing video games. I have been playing Blizzard video games like World of Warcraft and Diablo since I was old enough to use a computer, and have been programming since highschool. Dungeons and Dragons is also a huge part of my life.
+Game Programming is my life. I also love attending Global Game Jam Events and playing video games. I have been playing Blizzard video games like World of Warcraft and Diablo since I was old enough to use a computer, and have been programming since highschool. Dungeons & Dragons is also a huge part of my life.
 
 ### ✉️How to Contact Me:
 
