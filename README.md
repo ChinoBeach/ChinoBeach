@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/6q7HkO26vm7NhI4hKQ/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -32,15 +32,32 @@
 
 Game Programming is my life. I also love attending Global Game Jam Events and playing video games. I have been playing Blizzard video games like World of Warcraft and Diablo since I was old enough to use a computer, and have been programming since highschool. Dungeons & Dragons is also a huge part of my life.
 
+----
+
 ### ✉️How to Contact Me:
 
 Email: 18kbeach@gmail.com 
 
 LinkedIn: https://www.linkedin.com/in/chino-beach-186071269/ 
 
+My Work GitHub: https://github.com/ChinoBeach-Colgate
+
+----
+
+<div id="header" align="center">
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinoBeach&theme=vue)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoBeach&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+<div id="header" align="center">
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="UE" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
@@ -53,9 +70,4 @@ LinkedIn: https://www.linkedin.com/in/chino-beach-186071269/
   
 </div>
 
----
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinoBeach&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoBeach&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
