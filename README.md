@@ -34,7 +34,7 @@ Game Programming is my life. I also love attending Global Game Jam Events and pl
 
 ### ✉️How to Contact Me:
 
-Email: 18kbeach@gmail.com -or- beach988@morrisville.edu 
+Email: 18kbeach@gmail.com 
 
 LinkedIn: https://www.linkedin.com/in/chino-beach-186071269/ 
 
