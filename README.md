@@ -12,21 +12,24 @@
 </div>
 
 <h1>
-  Welcome To My Page
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Chino+Beach;Welcome+To+My+Page)](https://git.io/typing-svg)
+ 
+ </div>
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000" height="225"/>
 </div>
 
-## 📖 Educatuion:
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%96+Educatuion%3A)](https://git.io/typing-svg)
 
 ⏲️Currently pursuing a BS Degree in Application Software Development with a minor in Game Programming. (expected graduation summer 2023.)
 
 🎓AS in Computer Science from Onodoga Community College. (2020)
 
-## 💻 About Me:
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+About+Me%3A)](https://git.io/typing-svg)
 
 🌌 My Dream is persue my passion by working in the Video Game Industry on big games that I love. 
 
@@ -34,7 +37,7 @@ Game Programming is my life. I also love attending Global Game Jam Events and pl
 
 ----
 
-### ✉️How to Contact Me:
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%89%EF%B8%8FHow+to+Contact+Me%3A)](https://git.io/typing-svg)
 
 Email: 18kbeach@gmail.com 
 
@@ -46,7 +49,7 @@ My Work GitHub: https://github.com/ChinoBeach-Colgate
 
 <div id="header" align="center">
 
-### :fire: My Stats :
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A722&center=true&vCenter=true&width=435&lines=%F0%9F%94%A5+My+Stats+%3A)](https://git.io/typing-svg)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinoBeach&theme=vue)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoBeach&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
