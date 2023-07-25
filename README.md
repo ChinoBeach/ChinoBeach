@@ -52,7 +52,7 @@ My Work GitHub: https://github.com/ChinoBeach-Colgate
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A722&center=true&vCenter=true&width=435&lines=%F0%9F%94%A5+My+Stats+%3A)](https://git.io/typing-svg)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinoBeach&theme=vue)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoBeach&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ----
 
