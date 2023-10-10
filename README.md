@@ -25,7 +25,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%93%96+Educatuion%3A)](https://git.io/typing-svg)
 
-⏲️Currently pursuing a BS Degree in Application Software Development with a minor in Game Programming. (expected graduation summer 2023.)
+🎓BS Degree in Application Software Development with a minor in Game Programming. (2023)
 
 🎓AS in Computer Science from Onodoga Community College. (2020)
 
