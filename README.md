@@ -43,7 +43,7 @@ Email: 18kbeach@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/chino-beach-186071269/ 
 
-My Work GitHub: https://github.com/ChinoBeach-Colgate
+Internship GitHub Page Summer 23: https://github.com/ChinoBeach-Colgate
 
 ----
 
